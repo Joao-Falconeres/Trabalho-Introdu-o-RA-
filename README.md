@@ -4,4 +4,4 @@
 
 # Link Documentação: https://docs.google.com/spreadsheets/d/1WPUxo9UgWkfS2HAM-NBNMgFnrmCqO7wDorIHQLMhlls/edit?usp=sharing
 
-#link Artigo: https://docs.google.com/document/d/1xNcXEOGCxFwaKN7_PnXVITZPUVixjbG7/edit?usp=sharing&ouid=107793424446522520207&rtpof=true&sd=true
+# Link Artigo: https://docs.google.com/document/d/1xNcXEOGCxFwaKN7_PnXVITZPUVixjbG7/edit?usp=sharing&ouid=107793424446522520207&rtpof=true&sd=true
